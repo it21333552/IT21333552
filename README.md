@@ -1,7 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ishani Abeysinghe</h1>
+
+<div align="center">
+  <img height="200" width="300" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif"  />
+</div>
+
+
+
 <h3 align="center">A passionate frontend developer</h3>
 
-
+<h3 align="left">👩‍💻  About Me:</h3>
 
 - 🔭 I’m currently working on **this page**
 
@@ -16,8 +23,20 @@
 - ⚡ Fun fact **I watch movies and travel.**
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ishani-abeysinghe/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ishani-abeysinghe/" height="30" width="40" /></a>
+
+ <a href="ttps://linkedin.com/in/https://www.linkedin.com/in/ishani-abeysinghe/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+
+  
+
+
+ <a href="ishaniabeysinghe@yahoo.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
